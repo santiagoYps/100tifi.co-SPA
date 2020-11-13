@@ -3,12 +3,11 @@ const Home = () => {
     <div class="Characters">
         <article class="Character-item">
         <a href="#/1/">
-            <img src="image" alt="name">
+            <img src="" alt="name">
             <h2>Name</h2>
         </a>
         </article>
-    </div>
-    `;
+    </div>`;
     return view;
 }
 
